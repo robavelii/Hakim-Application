@@ -1,6 +1,5 @@
 # hakim_app
-
-A new Flutter project.
+Hakim is a mobile platform for sharing and discussing clinical cases among doctors. It is built as a social media where verified medical professionals can post and share information (image-based or text) . One of its features is the integrated face recognition AI to check for facial attributes of patents' images.
 
 ## Getting Started
 
